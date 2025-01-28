@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Project",
+    "section": "",
+    "text": "Project A\nProject B"
+  },
+  {
+    "objectID": "projects/project-b/index.html",
+    "href": "projects/project-b/index.html",
+    "title": "My Portfolio Page",
+    "section": "",
+    "text": "import numpy as np \nimport matplotlib.pyplot as plt \nr = np.arange(0, 2, 0.01) \ntheta = 2 * np.pi * r \nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'}) \nax.plot(theta, r) \nax.set_rticks([0.5, 1, 1.5, 2]) \nax.grid(True) \nplt.show()"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an about me page"
+  },
+  {
+    "objectID": "about.html#who-are-you",
+    "href": "about.html#who-are-you",
+    "title": "About",
+    "section": "Who are you?",
+    "text": "Who are you?\nI’m Kuo-Tung (Anthony) Chang, a dynamic professional blending a strong foundation in accounting with advanced expertise in business analytics. Currently pursuing an MS in Business Analytics at UC Irvine, I specialize in transforming data into actionable insights, driving informed decision-making in financial and operational contexts."
+  },
+  {
+    "objectID": "about.html#where-did-you-come-from",
+    "href": "about.html#where-did-you-come-from",
+    "title": "About",
+    "section": "Where did you come from?",
+    "text": "Where did you come from?\nMy journey began with a BBA in Accounting from National Chung Hsing University, where I developed my analytical and financial skills. At EY, I honed these skills further as a Student Ambassador and Assurance Intern, building a bridge between finance and data analytics. Today, I’m leveraging my education and experiences to create meaningful impacts in business analytics, demonstrated by my work with Johnson & Johnson and consulting projects like ULP’s strategic roadmap."
+  },
+  {
+    "objectID": "about.html#what-is-your-personal-mission-and-vision",
+    "href": "about.html#what-is-your-personal-mission-and-vision",
+    "title": "About",
+    "section": "What is your personal mission and vision?",
+    "text": "What is your personal mission and vision?\n\nMission:\nMy mission is to deliver data-driven strategies that empower organizations to achieve operational excellence and financial growth. At present, I’m partnering with J&J MedTech to uncover growth opportunities by analyzing extensive datasets and developing predictive models.\n\n\nVision:\nI aspire to become a leading expert at the nexus of finance and data analytics, helping global organizations innovate and thrive in an increasingly data-centric world. My goal is to not only solve complex problems but to inspire others to embrace the transformative potential of data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kuo-Tung (Anthony) Chang",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  }
+]
